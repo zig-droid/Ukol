@@ -1,0 +1,14 @@
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\bin\Debug\net8.0\VytvoreniXmlSouboru.exe
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\bin\Debug\net8.0\VytvoreniXmlSouboru.deps.json
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\bin\Debug\net8.0\VytvoreniXmlSouboru.runtimeconfig.json
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\bin\Debug\net8.0\VytvoreniXmlSouboru.dll
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\bin\Debug\net8.0\VytvoreniXmlSouboru.pdb
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\obj\Debug\net8.0\VytvoreniXmlSouboru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\obj\Debug\net8.0\VytvoreniXmlSouboru.AssemblyInfoInputs.cache
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\obj\Debug\net8.0\VytvoreniXmlSouboru.AssemblyInfo.cs
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\obj\Debug\net8.0\VytvoreniXmlSouboru.csproj.CoreCompileInputs.cache
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\obj\Debug\net8.0\VytvoreniXmlSouboru.dll
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\obj\Debug\net8.0\refint\VytvoreniXmlSouboru.dll
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\obj\Debug\net8.0\VytvoreniXmlSouboru.pdb
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\obj\Debug\net8.0\VytvoreniXmlSouboru.genruntimeconfig.cache
+C:\Users\jihla\OneDrive\Plocha\Ukol\VytvoreniXmlSouboru\VytvoreniXmlSouboru\obj\Debug\net8.0\ref\VytvoreniXmlSouboru.dll

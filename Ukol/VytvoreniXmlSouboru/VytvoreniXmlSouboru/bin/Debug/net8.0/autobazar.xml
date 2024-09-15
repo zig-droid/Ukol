@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCarBazar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CarBazar>
+    <CarId>6fbf3f7e-9073-46f8-a1aa-ac8bd408a681</CarId>
+    <NazevModelu>Škoda Oktávia</NazevModelu>
+    <DatumProdeje>2010-12-02T00:00:00</DatumProdeje>
+    <Cena>500000</Cena>
+    <Dph>20</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>7a624d8f-8bfa-4ce7-b77d-9f4c6ddee785</CarId>
+    <NazevModelu>Škoda Felicia</NazevModelu>
+    <DatumProdeje>2000-12-03T00:00:00</DatumProdeje>
+    <Cena>210000</Cena>
+    <Dph>20</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>41a5c0f7-23f9-4940-ad0a-12f6bd0b984a</CarId>
+    <NazevModelu>Škoda Fabia</NazevModelu>
+    <DatumProdeje>2010-12-04T00:00:00</DatumProdeje>
+    <Cena>350000</Cena>
+    <Dph>20</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>16f0448f-79ce-4ba3-b36e-5cebb319b94a</CarId>
+    <NazevModelu>Škoda Oktávia</NazevModelu>
+    <DatumProdeje>2010-12-04T00:00:00</DatumProdeje>
+    <Cena>500000</Cena>
+    <Dph>20</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>b9f41b4d-7cd0-4552-b39a-03f87d8adec2</CarId>
+    <NazevModelu>Škoda Oktávia</NazevModelu>
+    <DatumProdeje>2010-12-05T00:00:00</DatumProdeje>
+    <Cena>500000</Cena>
+    <Dph>20</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>4d46adbf-ec10-4e46-9cee-1d8a4e591c2a</CarId>
+    <NazevModelu>Škoda Fabia</NazevModelu>
+    <DatumProdeje>2010-12-05T00:00:00</DatumProdeje>
+    <Cena>350000</Cena>
+    <Dph>20</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>ba7c1072-7a0b-46ae-b7ce-e844ea4c3a8f</CarId>
+    <NazevModelu>Škoda Fabia</NazevModelu>
+    <DatumProdeje>2010-12-06T00:00:00</DatumProdeje>
+    <Cena>350000</Cena>
+    <Dph>20</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>84bce395-00e3-4a5c-a9c3-5c7ca7379834</CarId>
+    <NazevModelu>Škoda Forman</NazevModelu>
+    <DatumProdeje>2000-12-04T00:00:00</DatumProdeje>
+    <Cena>100000</Cena>
+    <Dph>19</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>956d68be-1a64-4598-850f-44d063aacfeb</CarId>
+    <NazevModelu>Škoda Favorit</NazevModelu>
+    <DatumProdeje>2000-12-05T00:00:00</DatumProdeje>
+    <Cena>80000</Cena>
+    <Dph>19</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>395d0f17-566d-4b85-ada6-ed4109f35aab</CarId>
+    <NazevModelu>Škoda Forman</NazevModelu>
+    <DatumProdeje>2000-12-06T00:00:00</DatumProdeje>
+    <Cena>100000</Cena>
+    <Dph>19</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>78fba112-3835-42e7-b616-684012878617</CarId>
+    <NazevModelu>Škoda Felicia</NazevModelu>
+    <DatumProdeje>2000-12-03T00:00:00</DatumProdeje>
+    <Cena>210000</Cena>
+    <Dph>19</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>9cf9e574-a6a9-488d-92a6-c301dd3a29d4</CarId>
+    <NazevModelu>Škoda Felicia</NazevModelu>
+    <DatumProdeje>2000-12-02T00:00:00</DatumProdeje>
+    <Cena>210000</Cena>
+    <Dph>19</Dph>
+  </CarBazar>
+  <CarBazar>
+    <CarId>4a184965-0c32-4729-9a67-eeb2f1322a8d</CarId>
+    <NazevModelu>Škoda Oktávia</NazevModelu>
+    <DatumProdeje>2010-12-07T00:00:00</DatumProdeje>
+    <Cena>500000</Cena>
+    <Dph>20</Dph>
+  </CarBazar>
+</ArrayOfCarBazar>

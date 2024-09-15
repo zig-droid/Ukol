@@ -1,0 +1,16 @@
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\bin\Debug\net8.0-windows\CenaProdanychAut.exe
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\bin\Debug\net8.0-windows\CenaProdanychAut.deps.json
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\bin\Debug\net8.0-windows\CenaProdanychAut.runtimeconfig.json
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\bin\Debug\net8.0-windows\CenaProdanychAut.dll
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\bin\Debug\net8.0-windows\CenaProdanychAut.pdb
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\obj\Debug\net8.0-windows\CenaProdanychAut.Form1.resources
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\obj\Debug\net8.0-windows\CenaProdanychAut.csproj.GenerateResource.cache
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\obj\Debug\net8.0-windows\CenaProdanychAut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\obj\Debug\net8.0-windows\CenaProdanychAut.AssemblyInfoInputs.cache
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\obj\Debug\net8.0-windows\CenaProdanychAut.AssemblyInfo.cs
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\obj\Debug\net8.0-windows\CenaProdanychAut.csproj.CoreCompileInputs.cache
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\obj\Debug\net8.0-windows\CenaProdanychAut.dll
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\obj\Debug\net8.0-windows\refint\CenaProdanychAut.dll
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\obj\Debug\net8.0-windows\CenaProdanychAut.pdb
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\obj\Debug\net8.0-windows\CenaProdanychAut.genruntimeconfig.cache
+C:\Users\jihla\OneDrive\Plocha\Ukol\CenaProdanychAut\CenaProdanychAut\obj\Debug\net8.0-windows\ref\CenaProdanychAut.dll
