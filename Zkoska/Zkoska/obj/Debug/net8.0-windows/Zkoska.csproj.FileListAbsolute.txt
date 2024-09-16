@@ -1,0 +1,17 @@
+C:\Users\jihla\source\repos\Zkoska\Zkoska\bin\Debug\net8.0-windows\Zkoska.exe
+C:\Users\jihla\source\repos\Zkoska\Zkoska\bin\Debug\net8.0-windows\Zkoska.deps.json
+C:\Users\jihla\source\repos\Zkoska\Zkoska\bin\Debug\net8.0-windows\Zkoska.runtimeconfig.json
+C:\Users\jihla\source\repos\Zkoska\Zkoska\bin\Debug\net8.0-windows\Zkoska.dll
+C:\Users\jihla\source\repos\Zkoska\Zkoska\bin\Debug\net8.0-windows\Zkoska.pdb
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\Zkoska.csproj.GenerateResource.cache
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\Zkoska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\Zkoska.AssemblyInfoInputs.cache
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\Zkoska.AssemblyInfo.cs
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\Zkoska.csproj.CoreCompileInputs.cache
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\Zkoska.dll
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\refint\Zkoska.dll
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\Zkoska.pdb
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\Zkoska.genruntimeconfig.cache
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\ref\Zkoska.dll
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\Zkoska.RegisterWindow.resources
+C:\Users\jihla\source\repos\Zkoska\Zkoska\obj\Debug\net8.0-windows\Zkoska.Pojistovna.resources
